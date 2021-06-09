@@ -1,0 +1,20 @@
+{
+  "name": "docusaurus",
+  "version": "1.0.0",
+  "description": "Papercups plugin for docusaurus",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papercups-io/docusaurus.git"
+  },
+  "keywords": [
+    "docusaurus",
+    "papercups"
+  ],
+  "author": "Rob Honsby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/papercups-io/docusaurus/issues"
+  },
+  "homepage": "https://github.com/papercups-io/docusaurus#readme"
+}
