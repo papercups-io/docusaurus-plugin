@@ -1,4 +1,6 @@
-# @papercups-io/docusaurus
+# @papercups-io/docusaurus-plugin
+
+[![NPM](https://img.shields.io/npm/v/@papercups-io/docusaurus-plugin.svg)](https://www.npmjs.com/package/@papercups-io/docusaurus-plugin)
 
 This plugins enable usage of the Papercups chat widget on Docusaurus powered websites.
 
