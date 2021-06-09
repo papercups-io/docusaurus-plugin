@@ -1,5 +1,5 @@
 {
-  "name": "docusaurus",
+  "name": "@papercups-io/docusaurus-plugin",
   "version": "1.0.0",
   "description": "Papercups plugin for docusaurus",
   "main": "src/index.js",
