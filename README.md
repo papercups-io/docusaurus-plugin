@@ -52,4 +52,6 @@ module.exports = {
 };
 ```
 
+3. If you are hot reloading the code you might need to refresh the page for the widget to show up.
+
 See our [demo](http://app.papercups.io/demo) or our [main repo](https://github.com/papercups-io/papercups)
