@@ -51,3 +51,5 @@ module.exports = {
   ],
 };
 ```
+
+See our [demo](http://app.papercups.io/demo) or our [main repo](https://github.com/papercups-io/papercups)
